@@ -196,8 +196,8 @@ This project was completed as part of my **Data Analytics Internship** at **Oasi
 
 Aspiring Data Analyst passionate about transforming raw data into actionable insights.
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://www.linkedin.com/in/your-profile
+* GitHub: https://github.com/Joshtheanalyst
+* LinkedIn:https://www.linkedin.com/in/akubueze-joshua-0586b33b3/
 
 ---
 
